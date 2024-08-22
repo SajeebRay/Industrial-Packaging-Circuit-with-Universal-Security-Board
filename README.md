@@ -7,6 +7,12 @@ There we use three passwords, two for 15 days trial run. And, one for pro-passwo
 
 [![PCBWay Logo](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1574266723216-3GI9YH3SC37PUJ0DMA9C/image-asset.png)](https://www.pcbway.com/)
 
+<p align="center">
+  <a href="https://www.pcbway.com/">
+    <img src="https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1574266723216-3GI9YH3SC37PUJ0DMA9C/image-asset.png" alt="PCBWay Logo" width="200"/>
+  </a>
+</p>
+
 
 ## **Sponsorship**
 
