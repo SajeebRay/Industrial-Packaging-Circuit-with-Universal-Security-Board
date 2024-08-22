@@ -1,9 +1,10 @@
-## **Project Name: Industrial-Packaging-Circuit-with-Universal-Security-Board!** <br>
+## **Industrial Packaging Circuit with Universal Security Board!** <br>
 _This device enables industrials to offer trial run of their hardware.
 Also, it will enhance the EMI system. 
 This circuit uses security system, using the security password the customer can start the machine.
 There we use three passwords, two for 15 days trial run. And, one for pro-password, using this the device will run forever._
 <br>
+
 ## **Sponsorship**
 
 <p align="center">
@@ -14,7 +15,7 @@ There we use three passwords, two for 15 days trial run. And, one for pro-passwo
 
 This project is proudly **sponsored by [PCBWay](https://www.pcbway.com/)**, a leading PCB manufacturer. PCBWay provided high-quality printed circuit boards (PCBs).
 
-### **Why PCBWay?**
+**Why PCBWay?**
 
 - **High-Quality PCBs**: PCBWay is known for reliable and durable PCBs, ensuring that projects run smoothly.
 - **Affordable Pricing**: They offer competitive prices, making them accessible to both students and professionals.
